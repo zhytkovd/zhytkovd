@@ -65,7 +65,7 @@ Building a **full-stack e-commerce platform for a local clothing business**, wit
 - Develop REST APIs, database systems, and backend features
 - Work with Docker, CI/CD, Git, Flask, MySQL, and PeeWee
 
-### Co-Lead CS Teaching Associate @ Berea College
+### Lead CS Teaching Associate @ Berea College
 
 - Lead **15+ TAs** supporting **120+ CS students**
 - Teach data structures, algorithms, OOP, debugging, and software development
