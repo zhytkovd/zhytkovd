@@ -2,7 +2,7 @@
 
 ### CS + Math @ Berea College | Software Engineer
 
-I'm a **Junior Computer Science & Mathematics student and part-time Software Engineer at Berea College**, with experience shipping software used by **2,000+ users** and contributing to **$100K+ in annual savings**.
+I'm a **Junior Computer Science & Mathematics student and part-time Software Engineer at Berea College**, with experience shipping software used by **2,000+ users** and contributing to **$90K+ in annual savings**.
 
 I enjoy turning real-world problems into **production software** through full-stack engineering, applied AI, and data analysis. Currently, I'm focused on deepening my expertise in **system design, scalable software, and AI-assisted development**.
 
