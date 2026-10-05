@@ -65,7 +65,7 @@ AI-powered GitHub codebase assistant that answers questions using **live reposit
 
 [Live Demo](https://main.d3gcrotthe39k2.amplifyapp.com) · [Repository](https://github.com/zhytkovd/devcontext)
 
-### [Limari.org](https://limari.org/)
+### Limari.org
 
 Full-stack e-commerce platform for a local clothing business, designed as a custom alternative to their existing storefront.
 
