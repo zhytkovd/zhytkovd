@@ -109,7 +109,7 @@ Full-stack e-commerce platform for a local clothing business, designed as a cust
 
 ### Berea College
 
-**B.A. Computer Science + Mathematics — Double Major**  
+**B.A. Computer Science + Mathematics  (Double Major)**  
 **GPA: 3.98 / 4.00**  
 Expected Graduation: **May 2028**
 
