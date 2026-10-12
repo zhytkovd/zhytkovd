@@ -89,7 +89,7 @@ Full-stack e-commerce platform for a local clothing business, designed as a cust
 - Eliminated **100+ hours of manual work annually**
 - Work with **Docker, CI/CD, Git, MySQL, Flask, JavaScript, Jinja, and Bootstrap**
 
-### Lead CS Teaching Associate @ Berea College
+### Lead CS Teaching Assistant @ Berea College
 
 - Lead **15+ Teaching Associates**
 - Support academic operations for **120+ CS students**
